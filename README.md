@@ -19,6 +19,7 @@ Built with **React**, **Flask**, and **OpenAI GPT-4**, this dashboard fetches re
 ## 🖼️ Demo Screenshot
 
 ![Dashboard Screenshot](https://github.com/Shahid1Malik/KashmirGPT-Insight-Trends-Dashboard/blob/main/Screenshot%202025-06-11%20170603.png?raw=true)
+![Dashboard Screenshot](https://github.com/Shahid1Malik/KashmirGPT-Insight-Trends-Dashboard/blob/main/Screenshot%202025-06-11%20170615.png)
 
 
 ---
