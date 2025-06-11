@@ -1,0 +1,6 @@
+flask
+flask-cors
+openai
+pandas
+requests
+python-dotenv
